@@ -272,6 +272,6 @@ This project is created for educational purposes as part of a React development 
 ---
 
 <p align="center">
-  Made with 💚 by Paradise Nursery<br/>
+  Made with 💚 by Zia Hafizi<br/>
   <em>Bringing nature closer to you since 2020</em>
 </p>
